@@ -1,3 +1,8 @@
+
+Juana Morales Ramos, 202021591, jm.moralesr1@uniandes.edu.co
+
+Mateo López Tobon, 202021416, m.lopez24@uniandes.edu.co
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
